@@ -4,23 +4,24 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Linkedin: Deepak Bhadoria](https://www.linkedin.com/in/deepakbhadoria/).
 
-There should be whitespace between paragraphs.
+  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+  
 
-# Header 1
+# Summary
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am working as a Lead Data Scientist in Wipro and started persuing my Masters Degree from upgrad. Here are the list of projects I am working on
 
-## Header 2
+## Fraud Detection
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Others to Follow soon...!
+## Don't scroll further down as it is all default page for now.
 
 ```js
 // Javascript code with syntax highlighting.
