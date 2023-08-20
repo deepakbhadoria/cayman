@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Linkedin Profile:
 
 [Linkedin: Deepak Bhadoria](https://www.linkedin.com/in/deepakbhadoria/).
 
